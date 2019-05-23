@@ -1,0 +1,3 @@
+rootProject.name = 'stump_me_3733'
+
+include ':app'
